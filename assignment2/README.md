@@ -1,3 +1,6 @@
+This repository will only show code I have written. The application uses javafx-20.0.1 and javamail 1.4.5 libraries.
+These libraries are not included in this repository.
+
 "sdevadmin" has admin privileges assigned (privileges don't actually do anything in this application) and therefore requires 2 step verification
 when performing 2 step verification you will be prompted at the command terminal, not the GUI, for an email address and then for the code sent
 the code will be sent from "sdevtesting@gmail.com" and the subject line of the email will be "Testing Subject"
