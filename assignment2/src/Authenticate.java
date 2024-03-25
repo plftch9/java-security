@@ -113,6 +113,8 @@ public class Authenticate {
     private String twoFactor(String email) {
 
         final String username = "sdev425testing@gmail.com";
+
+        // you won't be able to log into the email address with this password :)
         final String password = "kkfpzwsmajujjmxb";
 
         Random r = new Random();
